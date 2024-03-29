@@ -1,11 +1,13 @@
 ---
 permalink: /
-title: "Yifan Zhang's Homepage"
+# title: "Yifan Zhang's Homepage"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+
 
 I am now a first-year Ph.D. student advised by Prof. [Xin Zhang](https://xinpl.github.io) at [Programming Languages Lab](https://pl.cs.pku.edu.cn/en/), [Software Engineering Institute](https://www.sei.pku.edu.cn), [School of Computer Science](https://cs.pku.edu.cn/English/Home.htm), [Peking University](https://english.pku.edu.cn). I am now interested in the combination of conventional program analysis and probabilistic graphical models (e.g., Bayesian network).
 
@@ -21,5 +23,5 @@ Analysis. ACM SIGPLAN International Conference on Object-Oriented Programming Sy
 
 ## Honors
 
-1. Gold medal in the 2022 International Collegiate Programming Contest ([ICPC](https://icpc.global)) Asia East Continent Final Contest.
+1. Gold medal in the 47-th International Collegiate Programming Contest ([ICPC](https://icpc.global)) Asia East Continent Final.
 2. The 47-th International Collegiate Programming Contest ([ICPC](https://icpc.global)) World Finalist.

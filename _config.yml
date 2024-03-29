@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "zh-CN"
-title                    : "Yifan Zhang"
+title                    : "Yifan Zhang's Homepage"
 title_separator          : "-"
 name                     : &name "Yifan Zhang"
 description              : &description "personal description"
@@ -22,7 +22,7 @@ repository               : "JJLeo/jjleo.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Yifan Zhang 张羿凡"
+  name             : "Yifan Zhang (张羿凡)"
   pronouns         : # example: "she/her"  
   bio              : "A Ph.D. student, PLL, PKU"
   location         : "Beijing, China"
