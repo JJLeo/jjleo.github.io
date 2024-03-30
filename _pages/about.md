@@ -19,7 +19,7 @@ I am now a first-year Ph.D. student advised by Prof. [Xin Zhang](https://xinpl.g
 ## Publications
 
 1. **Yifan Zhang**, Yuanfeng Shi, and Xin Zhang. Learning Abstraction Selection for Bayesian Program
-Analysis. ACM SIGPLAN International Conference on Object-Oriented Programming Systems, Languages, and Applications ([OOPSLA 2024](https://2024.splashcon.org/track/splash-2024-oopsla)), October 2024. [[DOI](https://doi.org/10.1145/3649845)] [[Pre-print](files/oopsla2024.pdf)] [[Artifact](https://doi.org/10.5281/zenodo.10823509)]
+Analysis. ACM SIGPLAN International Conference on Object-Oriented Programming Systems, Languages, and Applications ([OOPSLA 2024](https://2024.splashcon.org/track/splash-2024-oopsla)), October 2024. [[DOI](https://doi.org/10.1145/3649845)] [[Pre-print](files/oopsla2024.pdf)] [[Artifact](https://doi.org/10.5281/zenodo.10897277)]
 
 ## Honors
 
