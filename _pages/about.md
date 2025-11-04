@@ -18,11 +18,21 @@ I am a third-year Ph.D. student advised by Prof. [Xin Zhang](https://xinpl.githu
 
 ## Publications
 
-1. **Yifan Zhang**, Yuanfeng Shi, and Xin Zhang. Learning Abstraction Selection for Bayesian Program
-Analysis. ACM SIGPLAN International Conference on Object-Oriented Programming Systems, Languages, and Applications ([OOPSLA 2024](https://2024.splashcon.org/track/splash-2024-oopsla)), October 2024. [[DOI](https://doi.org/10.1145/3649845)] [[Pre-print](files/oopsla2024.pdf)] [[Artifact](https://doi.org/10.5281/zenodo.10897277)] [[Video](https://www.youtube.com/watch?v=p48Qgib0w0E)] [[Slides](files/oopsla2024-slides.pptx)] [[Poster](files/oopsla2024-poster.pdf)]
-2. Yuanfeng Shi, **Yifan Zhang**, and Xin Zhang. On Abstraction Refinement for Bayesian Program Analysis. ACM SIGPLAN International Conference on Object-Oriented Programming Systems, Languages, and Applications ([OOPSLA 2025](https://2025.splashcon.org/track/OOPSLA)), October 2025. [[DOI](https://doi.org/10.1145/3763166)]
-3. **Yifan Zhang** and Xin Zhang. Fuzzing Guided by Bayesian Program Analysis. Conditional Accept in POPL 2026.
-4. **Yifan Zhang** and Xin Zhang. Beyond Imprecise Distance Metrics: LLM-Predicted Target Call Stacks for Directed Greybox Fuzzing. Under submission. [[Pre-print](https://arxiv.org/abs/2510.23101)]
+1. *Learning Abstraction Selection for Bayesian Program Analysis*  
+**Yifan Zhang**, Yuanfeng Shi, and Xin Zhang  
+ACM SIGPLAN International Conference on Object-Oriented Programming Systems, Languages, and Applications ([OOPSLA 2024](https://2024.splashcon.org/track/splash-2024-oopsla)), October 2024  
+[[DOI](https://doi.org/10.1145/3649845)] [[Pre-print](files/oopsla2024.pdf)] [[Artifact](https://doi.org/10.5281/zenodo.10897277)] [[Video](https://www.youtube.com/watch?v=p48Qgib0w0E)] [[Slides](files/oopsla2024-slides.pptx)] [[Poster](files/oopsla2024-poster.pdf)]
+2. *On Abstraction Refinement for Bayesian Program Analysis*  
+Yuanfeng Shi, **Yifan Zhang**, and Xin Zhang  
+ACM SIGPLAN International Conference on Object-Oriented Programming Systems, Languages, and Applications ([OOPSLA 2025](https://2025.splashcon.org/track/OOPSLA)), October 2025  
+[[DOI](https://doi.org/10.1145/3763166)]
+3. *Fuzzing Guided by Bayesian Program Analysis*  
+**Yifan Zhang** and Xin Zhang  
+Conditional Accept in POPL 2026
+4. *Beyond Imprecise Distance Metrics: LLM-Predicted Target Call Stacks for Directed Greybox Fuzzing*  
+**Yifan Zhang** and Xin Zhang  
+Under submission  
+[[Pre-print](https://arxiv.org/abs/2510.23101)]
 
 ## Selected Honors
 
