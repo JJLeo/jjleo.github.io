@@ -28,7 +28,8 @@ ACM SIGPLAN International Conference on Object-Oriented Programming Systems, Lan
 [[DOI](https://doi.org/10.1145/3763166)]
 3. *Fuzzing Guided by Bayesian Program Analysis*  
 **Yifan Zhang** and Xin Zhang  
-ACM SIGPLAN Symposium on Principles of Programming Languages ([POPL 2026](https://popl26.sigplan.org)), January 2026
+ACM SIGPLAN Symposium on Principles of Programming Languages ([POPL 2026](https://popl26.sigplan.org)), January 2026  
+[[DOI](https://doi.org/10.1145/3776659)] [[Pre-print](files/popl2026.pdf)] [[Artifact](https://doi.org/10.5281/zenodo.17784906)]
 4. *Beyond Imprecise Distance Metrics: LLM-Predicted Target Call Stacks for Directed Greybox Fuzzing*  
 **Yifan Zhang** and Xin Zhang  
 Under submission  
